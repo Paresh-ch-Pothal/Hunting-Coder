@@ -16,7 +16,7 @@ Hunting Coder is a blog application built using Next.js. This platform allows co
 
 - Node.js
 ### Installation
-  - git clone https://github.com/yourusername/hunting-coder.git
+  - git clone https://github.com/Paresh-ch-Pothal/Hunting-Coder
   - cd hunting-code
   - 
 ## Contributing
